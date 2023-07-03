@@ -1,0 +1,8 @@
+corp/badinho/customer/Customer.class
+corp/badinho/customer/CustomerRepository.class
+corp/badinho/customer/CustomerService.class
+corp/badinho/customer/CustomerController.class
+corp/badinho/customer/Customer$CustomerBuilder.class
+corp/badinho/customer/CustomerRegistrationRequest.class
+corp/badinho/customer/CustomerApp.class
+corp/badinho/customer/CustomerRegistrationRequest$CustomerRegistrationRequestBuilder.class

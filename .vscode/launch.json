@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CustomerApp<customer>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "corp.badinho.customer.CustomerApp",
+            "projectName": "customer",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

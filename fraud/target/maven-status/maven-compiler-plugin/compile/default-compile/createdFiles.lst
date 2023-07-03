@@ -1,0 +1,6 @@
+corp/badinho/fraud/FraudApplication.class
+corp/badinho/fraud/FraudController.class
+corp/badinho/fraud/FraudCheckService.class
+corp/badinho/fraud/FraudCheckHistory.class
+corp/badinho/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+corp/badinho/fraud/FraudCheckHistoryRepository.class
